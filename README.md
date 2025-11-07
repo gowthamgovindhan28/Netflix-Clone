@@ -15,7 +15,7 @@ The Netflix Clone is a web application that mimics the core functionalities of t
 - JavaScript
 - ReactJS
 - Firebase (for authentication)
-- [Any additional libraries or frameworks you used, e.g., Axios, Bootstrap]
+
 
 ## Live Demo
 You can try out the Netflix Clone by visiting the following link: [Netflix Clone Live Demo](https://gowtham-project-d65d18.netlify.app/)
